@@ -25,6 +25,10 @@ h2, .h2 {
   font-size: 28px;
 }
 
+.heading{
+  color: #4AAAA5;  
+}
+
 p,
 ul,
 ol,
@@ -151,7 +155,9 @@ nav ul li {
 footer{
   padding: 20px;
     clear: both;
+    color: #FFF;
     background: #ccc;
+    background-color: #A9A9A9;
 }
 
 
@@ -186,4 +192,21 @@ footer{
 
 .gline{
   border: 2px solid #D3D3D3;
+}
+
+form{
+  color: #A9A9A9;
+}
+
+.button{
+  background-color: #4AAAA5;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.frmElements{
+  width: 100%;
 }
